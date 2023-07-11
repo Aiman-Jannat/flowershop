@@ -62,7 +62,7 @@ header{
 }
 .innerflower{
     height: 335px;
-    width:300px;
+    width:310px;
     text-align: center;
     background-color: rgba(167, 33, 98, 0.15);
     border-radius: 200px 200px 0px 0px;
@@ -75,7 +75,7 @@ header{
 .innerflower2{
     background-color:  rgba(5, 151, 160, 0.15) ;
     height: 335px;
-    width: 300px;
+    width: 310px;
     text-align: center;
     border-radius: 200px 200px 0px 0px;
 }
@@ -88,7 +88,7 @@ header{
 .innerflower3{
     background-color: rgba(71, 125, 17, 0.15);;
     height: 335px;
-    width: 300px;
+    width: 310px;
     text-align: center;
     border-radius: 200px 200px 0px 0px;
 }
